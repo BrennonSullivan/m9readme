@@ -1,0 +1,22 @@
+{
+  "name": "m9readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrennonSullivan/m9readme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrennonSullivan/m9readme/issues"
+  },
+  "homepage": "https://github.com/BrennonSullivan/m9readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
