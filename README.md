@@ -8,7 +8,7 @@
 - [License](#license)
 - [Questions](#questions)
 
-<a href=https://drive.google.com/file/d/1fYMyJlwbpuUvNfmS6rdQlCH17GhnNHmY/view>demo video</a>
+<a href=https://drive.google.com/file/d/1fYMyJlwbpuUvNfmS6rdQlCH17GhnNHmY/view target=_blank>demo video</a>
 
 <a href=./output/SAMPLE.md >sample</a>
 
