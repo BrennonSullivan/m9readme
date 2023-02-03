@@ -2,7 +2,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 inquirer
-.prompt([
+  .prompt([
     {
       type: "input",
       name: "projectTitle",
